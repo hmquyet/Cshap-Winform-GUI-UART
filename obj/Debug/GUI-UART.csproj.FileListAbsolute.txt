@@ -1,0 +1,33 @@
+C:\Study\HK231\Project 2\GUI\GUI-UART\bin\Debug\GUI-UART.exe.config
+C:\Study\HK231\Project 2\GUI\GUI-UART\bin\Debug\GUI-UART.exe
+C:\Study\HK231\Project 2\GUI\GUI-UART\bin\Debug\GUI-UART.pdb
+C:\Study\HK231\Project 2\GUI\GUI-UART\obj\Debug\GUI-UART.csproj.AssemblyReference.cache
+C:\Study\HK231\Project 2\GUI\GUI-UART\obj\Debug\GUI-UART.csproj.SuggestedBindingRedirects.cache
+C:\Study\HK231\Project 2\GUI\GUI-UART\obj\Debug\GUI_UART.Form1.resources
+C:\Study\HK231\Project 2\GUI\GUI-UART\obj\Debug\GUI_UART.Properties.Resources.resources
+C:\Study\HK231\Project 2\GUI\GUI-UART\obj\Debug\GUI-UART.csproj.GenerateResource.cache
+C:\Study\HK231\Project 2\GUI\GUI-UART\obj\Debug\GUI-UART.csproj.CoreCompileInputs.cache
+C:\Study\HK231\Project 2\GUI\GUI-UART\obj\Debug\GUI-UART.exe
+C:\Study\HK231\Project 2\GUI\GUI-UART\obj\Debug\GUI-UART.pdb
+C:\Study\HK231\DTCSUD\BTL\GUI\GUI-UART\bin\Debug\GUI-UART.exe.config
+C:\Study\HK231\DTCSUD\BTL\GUI\GUI-UART\bin\Debug\GUI-UART.exe
+C:\Study\HK231\DTCSUD\BTL\GUI\GUI-UART\bin\Debug\GUI-UART.pdb
+C:\Study\HK231\DTCSUD\BTL\GUI\GUI-UART\obj\Debug\GUI-UART.csproj.AssemblyReference.cache
+C:\Study\HK231\DTCSUD\BTL\GUI\GUI-UART\obj\Debug\GUI-UART.csproj.SuggestedBindingRedirects.cache
+C:\Study\HK231\DTCSUD\BTL\GUI\GUI-UART\obj\Debug\GUI_UART.Form1.resources
+C:\Study\HK231\DTCSUD\BTL\GUI\GUI-UART\obj\Debug\GUI_UART.Properties.Resources.resources
+C:\Study\HK231\DTCSUD\BTL\GUI\GUI-UART\obj\Debug\GUI-UART.csproj.GenerateResource.cache
+C:\Study\HK231\DTCSUD\BTL\GUI\GUI-UART\obj\Debug\GUI-UART.csproj.CoreCompileInputs.cache
+C:\Study\HK231\DTCSUD\BTL\GUI\GUI-UART\obj\Debug\GUI-UART.exe
+C:\Study\HK231\DTCSUD\BTL\GUI\GUI-UART\obj\Debug\GUI-UART.pdb
+C:\Study\HK231\DTCSUD\GUI_ver2\GUI-UART\bin\Debug\GUI-UART.exe.config
+C:\Study\HK231\DTCSUD\GUI_ver2\GUI-UART\bin\Debug\GUI-UART.exe
+C:\Study\HK231\DTCSUD\GUI_ver2\GUI-UART\bin\Debug\GUI-UART.pdb
+C:\Study\HK231\DTCSUD\GUI_ver2\GUI-UART\obj\Debug\GUI-UART.csproj.AssemblyReference.cache
+C:\Study\HK231\DTCSUD\GUI_ver2\GUI-UART\obj\Debug\GUI-UART.csproj.SuggestedBindingRedirects.cache
+C:\Study\HK231\DTCSUD\GUI_ver2\GUI-UART\obj\Debug\GUI_UART.Form1.resources
+C:\Study\HK231\DTCSUD\GUI_ver2\GUI-UART\obj\Debug\GUI_UART.Properties.Resources.resources
+C:\Study\HK231\DTCSUD\GUI_ver2\GUI-UART\obj\Debug\GUI-UART.csproj.GenerateResource.cache
+C:\Study\HK231\DTCSUD\GUI_ver2\GUI-UART\obj\Debug\GUI-UART.csproj.CoreCompileInputs.cache
+C:\Study\HK231\DTCSUD\GUI_ver2\GUI-UART\obj\Debug\GUI-UART.exe
+C:\Study\HK231\DTCSUD\GUI_ver2\GUI-UART\obj\Debug\GUI-UART.pdb
